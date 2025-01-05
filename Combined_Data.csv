@@ -1,0 +1,126 @@
+sale_id,product_id,customer_id,employee_id,product_name,customer_name,employee_name
+1001,P201,C101,,Wireless Mouse,N/A,N/A
+1002,P202,C102,,LED Desk Lamp,N/A,N/A
+1003,P203,C103,,Notebook Set,N/A,N/A
+1004,P204,C101,,Bluetooth Speaker,N/A,N/A
+1005,P201,C104,,Wireless Mouse,N/A,N/A
+1006,P202,C105,,LED Desk Lamp,N/A,N/A
+1007,P203,C106,,Notebook Set,N/A,N/A
+1008,P204,C107,,Bluetooth Speaker,N/A,N/A
+1009,P201,C108,,Wireless Mouse,N/A,N/A
+1010,P202,C109,,LED Desk Lamp,N/A,N/A
+1011,P203,C110,,Notebook Set,N/A,N/A
+1012,P204,C111,,Bluetooth Speaker,N/A,N/A
+1013,P201,C112,,Wireless Mouse,N/A,N/A
+1014,P202,C113,,LED Desk Lamp,N/A,N/A
+1015,P203,C114,,Notebook Set,N/A,N/A
+1016,P204,C115,,Bluetooth Speaker,N/A,N/A
+1017,P201,C116,,Wireless Mouse,N/A,N/A
+1018,P202,C117,,LED Desk Lamp,N/A,N/A
+1019,P203,C118,,Notebook Set,N/A,N/A
+1020,P204,C119,,Bluetooth Speaker,N/A,N/A
+1021,P201,C120,,Wireless Mouse,N/A,N/A
+1022,P202,C121,,LED Desk Lamp,N/A,N/A
+1023,P203,C122,,Notebook Set,N/A,N/A
+1024,P204,C123,,Bluetooth Speaker,N/A,N/A
+1025,P201,C124,,Wireless Mouse,N/A,N/A
+1026,P202,C125,,LED Desk Lamp,N/A,N/A
+1027,P203,C126,,Notebook Set,N/A,N/A
+1028,P204,C127,,Bluetooth Speaker,N/A,N/A
+1029,P201,C128,,Wireless Mouse,N/A,N/A
+1030,P202,C129,,LED Desk Lamp,N/A,N/A
+1031,P203,C130,,Notebook Set,N/A,N/A
+1032,P204,C131,,Bluetooth Speaker,N/A,N/A
+1033,P201,C132,,Wireless Mouse,N/A,N/A
+1034,P202,C133,,LED Desk Lamp,N/A,N/A
+1035,P203,C134,,Notebook Set,N/A,N/A
+1036,P204,C135,,Bluetooth Speaker,N/A,N/A
+1037,P201,C136,,Wireless Mouse,N/A,N/A
+1038,P202,C137,,LED Desk Lamp,N/A,N/A
+1039,P203,C138,,Notebook Set,N/A,N/A
+1040,P204,C139,,Bluetooth Speaker,N/A,N/A
+1041,P201,C140,,Wireless Mouse,N/A,N/A
+1042,P202,C141,,LED Desk Lamp,N/A,N/A
+1043,P203,C142,,Notebook Set,N/A,N/A
+1044,P204,C143,,Bluetooth Speaker,N/A,N/A
+1045,P201,C144,,Wireless Mouse,N/A,N/A
+1046,P202,C145,,LED Desk Lamp,N/A,N/A
+1047,P203,C146,,Notebook Set,N/A,N/A
+1048,P204,C147,,Bluetooth Speaker,N/A,N/A
+1049,P201,C148,,Wireless Mouse,N/A,N/A
+1050,P202,C149,,LED Desk Lamp,N/A,N/A
+1051,P203,C150,,Notebook Set,N/A,N/A
+1052,P204,C151,,Bluetooth Speaker,N/A,N/A
+1053,P201,C152,,Wireless Mouse,N/A,N/A
+1054,P202,C153,,LED Desk Lamp,N/A,N/A
+1055,P203,C154,,Notebook Set,N/A,N/A
+1056,P204,C155,,Bluetooth Speaker,N/A,N/A
+1057,P201,C156,,Wireless Mouse,N/A,N/A
+1058,P202,C157,,LED Desk Lamp,N/A,N/A
+1059,P203,C158,,Notebook Set,N/A,N/A
+1060,P204,C159,,Bluetooth Speaker,N/A,N/A
+1061,P201,C160,,Wireless Mouse,N/A,N/A
+1062,P202,C161,,LED Desk Lamp,N/A,N/A
+1063,P203,C162,,Notebook Set,N/A,N/A
+1064,P204,C163,,Bluetooth Speaker,N/A,N/A
+1065,P201,C164,,Wireless Mouse,N/A,N/A
+1066,P202,C165,,LED Desk Lamp,N/A,N/A
+1067,P203,C166,,Notebook Set,N/A,N/A
+1068,P204,C167,,Bluetooth Speaker,N/A,N/A
+1069,P201,C168,,Wireless Mouse,N/A,N/A
+1070,P202,C169,,LED Desk Lamp,N/A,N/A
+1071,P203,C170,,Notebook Set,N/A,N/A
+1072,P204,C171,,Bluetooth Speaker,N/A,N/A
+1073,P201,C172,,Wireless Mouse,N/A,N/A
+1074,P202,C173,,LED Desk Lamp,N/A,N/A
+1075,P203,C174,,Notebook Set,N/A,N/A
+1076,P204,C175,,Bluetooth Speaker,N/A,N/A
+1077,P201,C176,,Wireless Mouse,N/A,N/A
+1078,P202,C177,,LED Desk Lamp,N/A,N/A
+1079,P203,C178,,Notebook Set,N/A,N/A
+1080,P204,C179,,Bluetooth Speaker,N/A,N/A
+1081,P201,C180,,Wireless Mouse,N/A,N/A
+1082,P202,C181,,LED Desk Lamp,N/A,N/A
+1083,P203,C182,,Notebook Set,N/A,N/A
+1084,P204,C183,,Bluetooth Speaker,N/A,N/A
+1085,P201,C184,,Wireless Mouse,N/A,N/A
+1086,P202,C185,,LED Desk Lamp,N/A,N/A
+1087,P203,C186,,Notebook Set,N/A,N/A
+1088,P204,C187,,Bluetooth Speaker,N/A,N/A
+1089,P201,C188,,Wireless Mouse,N/A,N/A
+1090,P202,C189,,LED Desk Lamp,N/A,N/A
+1091,P203,C190,,Notebook Set,N/A,N/A
+1092,P204,C191,,Bluetooth Speaker,N/A,N/A
+1093,P201,C192,,Wireless Mouse,N/A,N/A
+1094,P202,C193,,LED Desk Lamp,N/A,N/A
+1095,P203,C194,,Notebook Set,N/A,N/A
+1096,P204,C195,,Bluetooth Speaker,N/A,N/A
+1097,P201,C196,,Wireless Mouse,N/A,N/A
+1098,P202,C197,,LED Desk Lamp,N/A,N/A
+1099,P203,C198,,Notebook Set,N/A,N/A
+1100,P204,C199,,Bluetooth Speaker,N/A,N/A
+1101,P201,C200,,Wireless Mouse,N/A,N/A
+1102,P202,C101,,LED Desk Lamp,N/A,N/A
+1103,P203,C102,,Notebook Set,N/A,N/A
+1104,P204,C103,,Bluetooth Speaker,N/A,N/A
+1105,P201,C104,,Wireless Mouse,N/A,N/A
+1106,P202,C105,,LED Desk Lamp,N/A,N/A
+1107,P203,C106,,Notebook Set,N/A,N/A
+1108,P204,C107,,Bluetooth Speaker,N/A,N/A
+1109,P201,C108,,Wireless Mouse,N/A,N/A
+1110,P202,C109,,LED Desk Lamp,N/A,N/A
+1111,P203,C110,,Notebook Set,N/A,N/A
+1112,P204,C111,,Bluetooth Speaker,N/A,N/A
+1113,P201,C112,,Wireless Mouse,N/A,N/A
+1114,P202,C113,,LED Desk Lamp,N/A,N/A
+1115,P203,C114,,Notebook Set,N/A,N/A
+1116,P204,C115,,Bluetooth Speaker,N/A,N/A
+1117,P201,C116,,Wireless Mouse,N/A,N/A
+1118,P202,C117,,LED Desk Lamp,N/A,N/A
+1119,P203,C118,,Notebook Set,N/A,N/A
+1120,P204,C119,,Bluetooth Speaker,N/A,N/A
+1121,P201,C120,,Wireless Mouse,N/A,N/A
+1122,P202,C121,,LED Desk Lamp,N/A,N/A
+1123,P203,C122,,Notebook Set,N/A,N/A
+1124,P204,C123,,Bluetooth Speaker,N/A,N/A
+1125,P201,C124,,Wireless Mouse,N/A,N/A

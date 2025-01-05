@@ -1,0 +1,3 @@
+Sale ID,Product Name,Customer Name,Employee Name,Quantity,Unit Price,Total Sale Amount,Total Cost,Profit Margin,Sale Date
+1,Product A,Customer X,Employee 1,2,50,100,60,40,2024-01-15
+2,Product B,Customer Y,Employee 2,1,100,100,70,30,2024-01-16
